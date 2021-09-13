@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-three-js-fiber-demo-reflections/static/css/main.3ef7fbf4.chunk.css",
-    "main.js": "/react-three-js-fiber-demo-reflections/static/js/main.cbb0e1a8.chunk.js",
-    "main.js.map": "/react-three-js-fiber-demo-reflections/static/js/main.cbb0e1a8.chunk.js.map",
-    "runtime~main.js": "/react-three-js-fiber-demo-reflections/static/js/runtime~main.b9c8f618.js",
-    "runtime~main.js.map": "/react-three-js-fiber-demo-reflections/static/js/runtime~main.b9c8f618.js.map",
-    "static/js/2.af972b60.chunk.js": "/react-three-js-fiber-demo-reflections/static/js/2.af972b60.chunk.js",
-    "static/js/2.af972b60.chunk.js.map": "/react-three-js-fiber-demo-reflections/static/js/2.af972b60.chunk.js.map",
-    "index.html": "/react-three-js-fiber-demo-reflections/index.html",
-    "precache-manifest.b96f28bc4bf2713044a67a61132a7f30.js": "/react-three-js-fiber-demo-reflections/precache-manifest.b96f28bc4bf2713044a67a61132a7f30.js",
-    "service-worker.js": "/react-three-js-fiber-demo-reflections/service-worker.js",
-    "static/css/main.3ef7fbf4.chunk.css.map": "/react-three-js-fiber-demo-reflections/static/css/main.3ef7fbf4.chunk.css.map"
+    "main.css": "/react-three-fiber-demo-reflections/static/css/main.3ef7fbf4.chunk.css",
+    "main.js": "/react-three-fiber-demo-reflections/static/js/main.cbb0e1a8.chunk.js",
+    "main.js.map": "/react-three-fiber-demo-reflections/static/js/main.cbb0e1a8.chunk.js.map",
+    "runtime~main.js": "/react-three-fiber-demo-reflections/static/js/runtime~main.8e8894e1.js",
+    "runtime~main.js.map": "/react-three-fiber-demo-reflections/static/js/runtime~main.8e8894e1.js.map",
+    "static/js/2.af972b60.chunk.js": "/react-three-fiber-demo-reflections/static/js/2.af972b60.chunk.js",
+    "static/js/2.af972b60.chunk.js.map": "/react-three-fiber-demo-reflections/static/js/2.af972b60.chunk.js.map",
+    "index.html": "/react-three-fiber-demo-reflections/index.html",
+    "precache-manifest.fc5a7d78363fdd12b06a65a1b5628e37.js": "/react-three-fiber-demo-reflections/precache-manifest.fc5a7d78363fdd12b06a65a1b5628e37.js",
+    "service-worker.js": "/react-three-fiber-demo-reflections/service-worker.js",
+    "static/css/main.3ef7fbf4.chunk.css.map": "/react-three-fiber-demo-reflections/static/css/main.3ef7fbf4.chunk.css.map"
   }
 }
