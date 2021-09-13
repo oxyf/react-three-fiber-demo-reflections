@@ -1,6 +1,6 @@
 # React Three.js Fiber Demo Project: Reflections
 
-Working demo in https://oxyf.github.io/react-three-js-fiber-demo-reflections/.
+Working demo in https://oxyf.github.io/react-three-fiber-demo-reflections/.
 
 Very simple react app demo using:
 
